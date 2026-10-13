@@ -1,0 +1,6 @@
+:root { font-family: system-ui, sans-serif; color: #213f35; background: #f5f7f3; font-synthesis: none; text-rendering: optimizeLegibility; line-height: 1.6; }
+* { box-sizing: border-box; }
+body { margin: 0; min-width: 320px; }
+h1, h2, h3, p { margin: 0; overflow-wrap: anywhere; }
+a { color: #246b56; overflow-wrap: anywhere; }
+:focus-visible { outline: 3px solid #b87520; outline-offset: 3px; }
